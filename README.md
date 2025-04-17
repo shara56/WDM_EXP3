@@ -150,9 +150,14 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
 
-![Screenshot 2025-04-17 155357](https://github.com/user-attachments/assets/909a333a-1a6a-4714-a50f-5a68dd1bc03d)
+![Screenshot 2025-04-17 160626](https://github.com/user-attachments/assets/e9dce01b-0af8-49c8-9313-683434537787)
 
-![Screenshot 2025-04-17 155458](https://github.com/user-attachments/assets/0cf9a9dd-1913-4c2b-bee4-28d9051545d1)
+
+![Screenshot 2025-04-17 160454](https://github.com/user-attachments/assets/10a20bec-81e7-4d5b-82f1-bd1c92eab331)
+
+
+![Screenshot 2025-04-17 160701](https://github.com/user-attachments/assets/6818b616-cefb-4ccb-bb53-c983f1d97171)
+
 
 
 ### Result:
